@@ -1,0 +1,32 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: firebase-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: firebase-deployment
+    spec:
+      containers:
+        - name: firebase
+          image: 'gcr.io/taxidealsnl/firebase-service:v1'
+          ports:
+            - containerPort: 8080
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: firebase-service
+  labels:
+    name: firebase-service
+spec:
+  ports:
+    - port: 80
+      targetPort: 8080
+      protocol: TCP
+  selector:
+    app: firebase-deployment
+  type: LoadBalancer

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taxi-deals-swiss-afc07",
+  "private_key_id": "247e19e37c8310d2f5cea9cfc948e2dbc283f169",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSgT3QTceO49tQ\ntyza7DhN9Sp48UAps/rFVU88KVTIxoaMvuIHtyg2Rs6uiUrK4hC5tdSSOUXynU60\nXxO8PrD7YR3HBBf9bZpfmX3Y6x7wm1BWtVkBs7df1H6c3MXvI/MB8wQIzg64xsWq\nUL+2/NjvAWWvLTFkyQFe3fSaRrJRTC2vDdApvdNnfaQdQ1BAyPxUX0tG2wFtAw7G\n339TmoNIcxnbcm6HWZnV/Q6pAjHY1ULpw7HFUYfTEIyxqkYtRE5fhc5ebyY06T84\n78u2SYMdd4YsU+fE6IGndfMcnpd7LhG9wQq2xdhN1RvFYOfljI9Vgy6LCL/nCxba\nemTKcIIZAgMBAAECggEAA9arTRKGoqOtdsJP5G4JRSCh8+CFUPpoXQSA0peWIzsR\nYi1rrG5T+UUWa/wIp8Nv0v/UwZ6KysIsolz13koptrJrFnBw5Pja0TurMJRrf3wg\nSR9QBVOFP9doWFmP/ZWsa64HemgUumpp2i4qscOS9wMrPAFkAIskNC0+WA73Y9og\nF6sUdUIZ39fEiP/IfCIIzDAGZ760z8g9nJ9j8i4nFrUexIcPUJ9ki+WS8hDz+cXu\nQbD6kTQhsTu8ZvjSOKqq2Ue73CunUyQqyKNjeUqIHR1NC/fIK/LPBJ//DRun5Rq+\n4vWNtH1I2Xd3aWjGhwd+h75Vek5sEze5JzRKPx2BEQKBgQDDrJBM27Zkseid3dsL\nJAqvxrypVBMpi+xsLjcSA1rMuuTL6/8+zGVuqCYrRMIbWiBs40rCjmMTzaKW5L9j\nviIqh2zmkPVWnjr65ItKKGevfLwIdXtMt2hjDtvySqKGPdoo3NBOgQvrnQU2sbc2\nJSzzlT1uDSJvJNhAwLe6TqdFCQKBgQC/rAggNIH/vdEMxIgCVYYVzjKPy0sa/Q2O\ngjhXUAw8+aZPoLiEN2jz4Xh3K9YUyLRY2Vt4T0JBWhpIqViCPOhnbORQHxk9qeB2\n3Jg47B9gUzOX6dJqmkJ1aVuQzbRuTiKLdtGDrlt71QL5nQSgupMSVR5EVnsyKAk5\nJF9mfuEokQKBgHnGYR+T9RUBq3Tj5zgtvADcu/jde/d1PzOsJ1WshMu43D8Upgsd\nBVsyhl6TMgH3uwpJAfPGzV47sZ4aygl3AKhbE6kCOc0oOCiAJzeFodGS3Sqegpeh\n5PMRAkztqevFfonDslfI8/Q0ClSZkR2/URReopZk0jM9SOAzj6QA4xSRAoGAcnSp\nOYoBYxUXY5dsXHBzrEvAV6ufAtO/p6zNNh5f4H13ua8Q4Csyagfm5srvgOPFBhVt\nkK9Lsji63074wnTalwAoakvXx8HMf04FPGCL7/pfIcUH2I6bRv+OJS8hIolYCY3/\nWLHigVTW/PWtkMk5D8ZyV36I/I95ynyU12DG1XECgYBosH903wISO0TL51lNSF9f\n2MliRkO5GDNQdVtWNwSYSIarQ6pkRHzSja9ceNsJIywnZairtIE+CVCAqgYpq/Np\noqvVmc4brYhYfHxKNUio7xINrn5/fPm1sUdmSl//piqdUFLy0u5wJUg1Tfwzilkh\nVAEoeIm5XJoGo0gI69ZpHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pcewt@taxi-deals-swiss-afc07.iam.gserviceaccount.com",
+  "client_id": "102930423340820864220",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pcewt%40taxi-deals-swiss-afc07.iam.gserviceaccount.com"
+}

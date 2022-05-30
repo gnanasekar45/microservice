@@ -1,0 +1,12 @@
+server:
+  port: 8086
+jwt:
+  security: luminnsecurity
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 196376410990-lmdj696not6gjf3tdpg832r6f4rgbd7p.apps.googleusercontent.com
+            client-secret: 8wH3rw21Nw7gfCfIFuiiITg4

@@ -1,0 +1,19 @@
+driver:
+  limit: 50
+firebase:
+  service: http://localhost:8085/user/all
+server:
+  port: 8085
+user:
+  clientId: luminn
+  clientSecret: $2a$10$mUNC1jaWVfUTnX3Wel8CnuhjcG6kSR4oPfI8B5rDqo9cEaT0AOZvq
+jwt:
+  security: luminnsecurity
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: driver-user
+      password: H8nmFjAN3BFlQ2BU
+      database: driver_service
+      uri: mongodb+srv://driver-user:H8nmFjAN3BFlQ2BU@cluster0.eoggx.gcp.mongodb.net/driver_service?retryWrites=true&w=majority&authSource=admin

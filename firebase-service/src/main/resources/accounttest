@@ -1,0 +1,51 @@
+{
+  "type": "service_account",
+  "project_id": "taxi2deals",
+  "private_key_id": "030c74fdca37e1cfe54e49bb8b43b5599587438c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbqPPyWFABarbW\ncfqEmWMcHCtmYG+T152sR6YMJM6sdllWk+vtfJEdnep/oZUiW6xEupCVJcSw5S06\nsRCLZjShBWQeDTo5BJnjSxmZKR8O1vfo6/NcRQ5PqXz5oype4Qiju3wgo6IMjrOo\nsvDtemi9XNm44Sv+IopzMbfQms0CqeezG/KxQldGtNNVXqSDw1EJQEvxe5d+fAvJ\nnlNsqr27gjwq6spZDgtYZIJYz6PspbMEfZ2jQMkDgRYhF21CUlMOoLkvmWSlw3Co\nlY9R7r2ByxryQUFDR3eC0ACTDQZbuWVSb7vn/pztkrIPlZdrCUqqMbMjE9MLjJKi\no6/qyjZtAgMBAAECggEAEAFA+RT8i1s3rutcygw/v5zBKsihs0oqwmfxY4F2ZPQ1\n8TbTohkJR85UTPAR5OV8vqtAp/q5rfvyLjcYPK1PQ2DtrmTfVlKNVerdwXOmFYI4\noQo5eq0gwabYpNCB4Ko742uLO/jq8J2giI0Kkfsb0O8ILCONUuCNvvP4mo9U8GRx\n9KiUHnkUHCaVcCbdhBkbKU6il44Jqzo05rRKMz2J9eQxKNdo1gM1yWnNOU6s80/F\nsl0YV0Ho/50VfdpKu3XFFIjvtZ73RIZH9oPuuKNv6DYFu5Ig04ay/jjRWgbIvxcE\nqASJcrfV7FagXbG3kdOYcBiZzKTQk7l5Eiw+a7pZ3wKBgQDuFVIGjAYPlbqQncV3\nrv9BXulYbAhvzgjhfGQ9LkC6VYuUc/+TAkEWVnTJWn81pXWvBP61+tFdKXI1aMeb\nzblNkMqiL076HQWeCsAW2A1XqSZtUxWTizG9+Xr0QdkhtU0FluD5BZemPqcn8ud5\nBG5a3p1RMqX3GumQpIMh7c+vwwKBgQDsMLT/2DjYMhIYQPozlD9uqw5yvPvJqy9Q\nY03kaTow0bjEjicycBfsrGVUBVDWP23K5TX5dvBpq5vlJXBkHKPt14Iawn613drT\np61SRlD8bkZF1dxpaSjc3Hc63BCjcH6iEKU1RqOUrrrSvwtsRuUDM3LBo5cHfNXA\nmQJroBDODwKBgDHBQuMbYCjhoZuXXS0l5TJEI3/XE+xJopF87XXbtKs8NW9Qzphq\nYC/K4Z0yzGLpsS5iXNirEhXmE3gV7aEh3RfYqoA6YsbiSco9dOdRP3iSYPV354pu\nDHcnLArfuADTYsVIQrvH72lOrqAqozUnN+jFnRra+tQpS6ZuuvjcOgsBAoGAb8d9\nYbfK70aDGcdmohJ/ErkR1WtrHj5N3hWhP4Atcf1PHHbKRiyWpgPQ0LrTTxIlu+hO\nawnHLbtxxDi7wCVtz5o2kMOLhDbC4XhxpoZwvYbS6yoTbi++jwgnxUtw9GjBBaIr\nDdOohy1KbYLMvSmwKJuoq8voJjsGTmgbpSPT0DECgYEAiEnwD8qu4brhCUhsG7lo\nhjA/nXqnWm5JjFP5TahMfuJ5YUC9eMdW6fAA/aywh78Db2j2YVXMlzeJ5pbQtq8j\nAM5F228W/IymG/G06sDrHcxEUl/0O5rJmlyuhO9sWCd9v05DNhZTafKThRhthlrg\namDkSxCphj6jlZ2uBbPhq3k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-65brh@taxi2deals.iam.gserviceaccount.com",
+  "client_id": "106066280403610479798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-65brh%40taxi2deals.iam.gserviceaccount.com"
+}
+
+{
+  "type": "service_account",
+  "project_id": "taxi-deals-swiss-afc07",
+  "private_key_id": "500edd6ed0f92f451b3b37c96e0acd05a16c87fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDpWkfUKsTo7FzZ\n63yveNce94H4pZoZlfWm7ddxSKzzPVKfixjPtUascHdswZFyBfTp192dNx3+VrVB\nmrTo5SlM6UK+kHJsHR95dSjrXa/tVeiEROAt3GFkCxsc38wntwfCSNIvRPBoWu3B\n4SLv2DIm/Acn89kklVvnsLhzJGKGFwbvaYi6aEthdyc8fDRW9SkP+jvBQ2AYOJOz\nLtDa+r158p8PlH/1xBO4vdh91DjAS0MXS7uKCw777iKuZVjuAs8xJQL9k01RwTRe\niIEP0mHhANhzwJYZOv5/JgJM/Js2lBT6Ruc6CVAUXfw5cwxZ029DfuDObuOrKPBE\n8ACuimt1AgMBAAECggEAIyQ+6/My6zbpNsIxaUWD8/xnHNhnkBHWyDhKORuuPAVQ\no4kxh9ovVfmr6ntuGWNPQkYJcEskH7DUJBiVxPr50MTSEduz95cdLc/YhTV7MH0/\nAmhS8GUfX48SmrMTTinQp9AKoya5I6YJ5ygt+DuxNdC/jSM6YLmDeS1SYbipg7K7\ncFrHu/eLOOFg4HOF5j4C2Pr6I9F0oD2PiFmJFEWyBKpT3IP8V2GDtmQoTpOOAw0l\nhUxc8lmnbxTy3cqet73cN0LEC5QA0m2IWNlxv8BqNgvrVEWb1E0lnVaycxoSbCLY\nU+8CiDHMputAD3EAWf2KPzmo7bGflu8rNBC/Tu8xIQKBgQD3FrNRswgTUl3e4Qpj\nuO+pDMnr69t0+zSkk1fpYzWL9m0VKLQjFSHfhoAw5ltoVmiwQnzDl/1fTNSey3nN\nDkDiFcjr1rTy0yWURI0tEOHCttMde2LzCwGAAWPRdkQtCYqjOPKXoBddHfbfIrn7\nRPInUVLdLACrQ1x2jJ/B9hpGBQKBgQDxxMJnW9mvHl+5lUo/5kaGiUT0rZZ+EBSH\nEwzOY+uTKbAJyGBwFqDaSGvvz7XOYz2dpik9uj6CE/btcyoYyd0IdLSSWcwsVrsy\nyWjClF4LVEyjqNO002WNheHXWyzAPWxPU9wwzprJZ0ODedu2hHuzIUQEK4byAcNQ\ny8Fxog2asQKBgHQLIj59gY5pgZKaSCHbihrv2alGRPQkwm2EkaYXpN9N5Z8pVaig\nVR9AcNYGaemPo20cXLIToLhwQe8uCs8mIYzMxGcWmDbuuVhv9YmzwwOKj43qE+en\nRJYUkQefrpckQwszRKO3WSGvX/EdwxDiKYQTqoIbF1lXsoYutx0F8wLtAoGAYoMZ\n86Opf4GQ373FE2RxOECWqFxTBerncmKAxVhRlRVXdaUAJqwRvt/jm0O3gPFPGf2q\nsExDTB12cCqM7KzUM63aJggQ+cAdZwRKe36ZE2S2FbmlCflZV+FFtMqh4XMlvu0c\nu4Zz67z39YqhzC0Pel4DqO9TfSjavQFJQVQW1wECgYEA3MS2Oiha7ITfzbBX+wez\n8j3BUr++CNGZctfLkvJY5NzpJkYLR2V2UJs3ydDG6h6O8Z7Ji/jVwCGMVgF5qAVS\nwHflIojDi2Xca5uyUPcoLysb5bomIouR216+EOhhqI0V6+xgrDp+Vg+R1eQu/R/e\nLrJoJby4TGBeaDxY4ArHoHU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pcewt@taxi-deals-swiss-afc07.iam.gserviceaccount.com",
+  "client_id": "102930423340820864220",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pcewt%40taxi-deals-swiss-afc07.iam.gserviceaccount.com"
+}
+
+{
+  "type": "service_account",
+  "project_id": "taxi2deals",
+  "private_key_id": "0a9f3302a087a534cd85204d19948903d2df839b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCndwhx1HL3N/gH\nN5uO/LeZkiJlTRA+vNjAIQZL0IY/A/4xITVXuzIzSR7TVmNZ10ihPxT/573cyNPF\nclbUb10wcNJAWoP75UfVaweI+z/ksePuS0dtqEAwuIJAcCa8/5pGlp/+arsYAqBj\nDObXg91/BBQmAlVafnZiaWVdNzzwg4VU+yohfHNLzLOYhX2ogTw7VQQ60rZUh34A\ndQyxnsAayidiFkw9WGH4jw9hiigYIlpZvprCr5mRviWX9MpHRX+yau7FE3mPEmIr\nkGVoIw/QGzVXP8U9JMLr1ypMFjUJBMK02OE3cHieYqRdFuC8+QRkgMjAMslEF2EZ\n1LYftQKjAgMBAAECggEANmh9hWIlUf3MpyehckTYL9xjMW9mukNn1pBEN+iRXTLi\naLrl1lGa/z+f9MDJ+Zvw3Haez3/O10cmSq2Z2V4vNDhLjx35aKM3AfdKlO4wdZB4\nQekSVWXHKS0hIGdvppMS4CE67RFnJOdhjZzY+Sc+FPDRzQGQEp0owFOG29DBC1Dg\nlfAA3eStYO0f5u1MRzffjndGyhX+m/WxxbzaNq+4VY/6VqTSx6D0arvXQAlnWJMz\nlU2CpHoccSrGKZGir1GWxpAy+xf9Irb/+zi/ZIPfgX3YORSAKfsPK7ZH3Q4y/+Z/\nVpGqONkuLYyXToRn+71Fc2zzSjpj7SIpi1oevKaQGQKBgQDkYHTtoJxnddsNy/WD\nbh9FI44fnvqIf7AU29AJmaKsA+yQMWxXti1H+fgBVOM6pukTI1D+dTqRBcK1XsSg\nyu+4qOIzupirwIzn7hhoV4fjEYnK7YMI4GtQFSgiOh7OPmYdFEtQNEuMV9GTGAC1\nipWSdVpRnFGkccdOaPrr713BuQKBgQC7uHr5HybPd4h/FyH7giDQsXy1O9ZX2jZL\nJYPGab97dCqa7YNvMwpf1XrzhzNmWJBggkxbBhXj50CVs3VmR9VSjnRvbLhY040o\naKibtJKjYImwNSC7+MAYckMYEZrfK7MW2NnIaHzEzq6V776kJYbbRwcTpD2x9BD6\n6LzcgjbFOwKBgQCt32ImqOlrO6eTUX2SmvzjvrYuDPPhiJWey9wP8xCOtk4dWgOK\npADFk+Ll4KM/vGQnVfQMR2RXlXMwcv5xDRCGHs5ZY+9olCizS+r5ResHTgsCnOHu\nmC4bwn/Tzzw0+fz0lsbgQXBjYVkGDHg9v00xPHePOtxNvvJnGDYx+wP+wQKBgQCH\ni+vv2piRkgRTkIaPLyU2zBH6Y1ygTwaJOGtwZ4dGQ1lISVxwfPBuxp1jHyr0KdsG\ndM9hooFH8QFnlw+cbR4R4J8eneh26zqwBPJKjBaeNeT2AUbDtBgxDsB3rq6fmtRU\nGP0YgqolCgByb4y+xgIcb6sieaO6zTs9kbRdnQCjZQKBgQCpeDZDF3CXQ2IkOcz8\naEzOM4wOmrS3crOIAbxzIVYr6hZvNp9+DPNV+r35ZyHiiloLZLKWwxw1asLRnbwG\nyLSkPVKHh4o2W3V6ki/nXMUXbV2WsoBXQ/mAXJLZZfAzHXnIGTfnjb1fEl/vL4RX\nfLlYcG/1vBmIKkuW1mN5WbhYMQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-65brh@taxi2deals.iam.gserviceaccount.com",
+  "client_id": "106066280403610479798",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-65brh%40taxi2deals.iam.gserviceaccount.com"
+}
+
+{
+  "type": "service_account",
+  "project_id": "taxideals-swiss1",
+  "private_key_id": "a720ca606c03d9cac68d0f8ceddc3c88f1b07c90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC59gdQnyJ5ET7w\nu9E9kSrkylPRraoHd4oXK+Xoper4sLjtZqp4FR6ibTgfpCY+oVcpdu6+l5mewDjz\nRmYn4iRRMbPFg+ECYlNbNPPaV2xuBBYSX7ujT0VJ5tHBJpGWeTdPCjpXEoURGWgh\nOV3utIub50ikMLB5zvvhaInxz5SmzbRgQ8dsnzvgLd9FMYG/EauOqQMDic7A1pbq\nm/e7oCvfE11yt1RllOo/jbw4C8qUjn21TjSerDC5bVZdbtDp9O5T1SnCshkc8T1y\n8DLdqQhb1SHTAyJHJMKjO8pWykh9N5KI5ICp0AYu3mj50AGoPNlj7X3RcCQVG2Po\nH6HpEYzLAgMBAAECggEADXMPU8cZ1nknI02AlFWmLTzuGf/Xu8mE0CjP7IC1572n\ng+s4dtqw+zaWAafWgkVN/GtwvsUdJBlEvseMYBcTFFimM8NWTnaJDwaOtAk9oalW\n/uyaMahsKCxzADRUNENZFJtDQ+sZet0EP6uz/ccxQuagrAtZDPF2gyngTDMv56GU\nBE7W91Fc1DKPZncDsiEl1FARsegMQnK8Bn6i8jyAydEpq38FSqPSBmuPnORWOmry\n00JGg+d45144kkCYQfIcDFtgUG1B+v/IfbZiVlg99utreevI6xKA4LsEn4IgnLg/\n6uCKA02Dqr5g/UbPuiBH5LK1yruqQXp386xVLx5GcQKBgQDoCndMnvZlG/ewCIRV\nfln4om2SwrRxOzuZnME19n24KVDYOI6YEpwJ0rveXgyYBNkIpUwwVkvRkgpNRfjT\nz1BDQeXBkAa7iiAgHZBceBLaqwf+Qvu+HbeezZ06yz34940GzZfSAGLG01PU4512\nky6yEc/jTGKqIZvsHNbAUh2OmwKBgQDNKYjrpzxN3Xj3rQ8NF6FQbXoozihzOSDQ\n2kgPLZS+6A0Bd7bfkUbn+/ZOGim32UFCPTa/Z8igPngeZPuQjEwgEUI82CJ48qio\nEtM57JLqcgQazNA35dvy33iP5Q4xFzEQwtz8UIUl+xKEz09QYfLDqHSFkSy6FzEI\nmjDZaOxFkQKBgDsz2GZbNIBtl095jNIHT8tJHe3Q8ZrmQvmZbg5nmoHvQKo6G9+e\n9+LlunsswcfTjNBQ5FR84BFTUn+Ot8LK5S6T1JwDNESLJFEtWdTN6fmSo5Jy4qoK\nCPxid5g1nNU1y+yNbgvtf0Y9SulJPbawLLzQIJtctNu1gYPHg99D1Di7AoGAVr4R\n6vjJUW6rX6Sm8XUlOjkfZjNL/PORgVxZDTnLYy//l7hC9KGa5iisyfbb3qSXp+bz\nx9echswCw28Uwdffs8s4Qztqz9JhJrbW4e25bDCKtb4U5x1jcnuzoLtK1cylbR3G\ni1OMCDPwb4CrWyQenUUTBwoLbB60F5wBvVpUU1ECgYEA4qsNgPvpEf3b/y6VAbLw\nxQvMeLtTVLCpyctNmWdsALYza8K7QSn8nfamtlrzGg9hQKmG3nCJ67mVFcvxg4B6\nRhzfpRIdCFL+/6WGKsvb6tfp3Gf5GiSWE2JpKHi+galNbjb5uuEh7LzI1xibh2hU\nKK91cFVhmRNUHgfj8dw8A7c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbe49@taxideals-swiss1.iam.gserviceaccount.com",
+  "client_id": "111103028139783670446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbe49%40taxideals-swiss1.iam.gserviceaccount.com"
+}

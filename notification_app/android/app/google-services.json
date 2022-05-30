@@ -1,0 +1,537 @@
+{
+  "project_info": {
+    "project_number": "298032037028",
+    "firebase_url": "https://taxi-deals-swiss-afc07.firebaseio.com",
+    "project_id": "taxi-deals-swiss-afc07",
+    "storage_bucket": "taxi-deals-swiss-afc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:1a7809d256c46e0c",
+        "android_client_info": {
+          "package_name": "com.dt.admin.foreman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-44tf3pa1jik0tf97nqoq0r1bon0qadbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dt.admin.foreman",
+            "certificate_hash": "40cf191b4bbd55750b96daf198b7686ac47bc00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:ac798c91fcae974c",
+        "android_client_info": {
+          "package_name": "com.dt.admin.newdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-5549un8nsbddj28u5t843i9i0pt4q4ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dt.admin.newdriver",
+            "certificate_hash": "b674a1b628d9c7a9b91d0a69794d39038a3cb00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:b883ea2279fd4717e9fa31",
+        "android_client_info": {
+          "package_name": "com.eric.androidapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:152e0ce04700bd0ce9fa31",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:59dfb051dfafaf5f",
+        "android_client_info": {
+          "package_name": "com.firebase.bootcamp.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-20s766mkdm4dphek4mc5i5nrdd45davv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.bootcamp.demo",
+            "certificate_hash": "40cf191b4bbd55750b96daf198b7686ac47bc00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:552319079e251b6d",
+        "android_client_info": {
+          "package_name": "com.taxi.deal.calltaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-jfs9hmiknqd3togplvlioisk52t1sfu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.deal.calltaxi",
+            "certificate_hash": "40cf191b4bbd55750b96daf198b7686ac47bc00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:92977763d1fc09d9",
+        "android_client_info": {
+          "package_name": "com.taxi.deals.newuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-si7306eog7b7f0o2oa7cto47pleru086.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.deals.newuser",
+            "certificate_hash": "b674a1b628d9c7a9b91d0a69794d39038a3cb00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:a761a82dd01cae82",
+        "android_client_info": {
+          "package_name": "com.taxi.deals.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-pubquo1i1bf87gjga57mmo6a5d2mpfil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxi.deals.user",
+            "certificate_hash": "9d17d5c2054f550cc909d94baef7c03dbfc75d65"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:c04324197b87aa25e9fa31",
+        "android_client_info": {
+          "package_name": "com.taxideals.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:ee0b47a2c5c716ace9fa31",
+        "android_client_info": {
+          "package_name": "com.taxideals.updated.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-j5137c4s733iisoa5a64k0f0fie3bu9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taxideals.updated.driver",
+            "certificate_hash": "b674a1b628d9c7a9b91d0a69794d39038a3cb00f"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298032037028:android:988ef70cbd0e04b6e9fa31",
+        "android_client_info": {
+          "package_name": "luminn.notification_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298032037028-jks51q4mb86frd17il3dopisbupcvjpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "luminn.notification_app",
+            "certificate_hash": "4569d4ce08f87e24f8921924ec2669846f85e801"
+          }
+        },
+        {
+          "client_id": "298032037028-uh0qifukemqe87n0ji8jj6ce07t510fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNUkxkA-MADNP2Rw7zr2DGm1LhlvRAJ0"
+        },
+        {
+          "current_key": "AIzaSyD3KWHm1W5EiDyTjELShRAGAogeOjRLozk"
+        },
+        {
+          "current_key": "AIzaSyCLXKRIoqMu6NiuZTnzIMvuo3R-B3-potI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298032037028-78mcpca19bn5tihsprpk02a266rbtlm0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298032037028-rtf81skdhe2le7egkjunl4i5otfgku63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lumin.taxidealsuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

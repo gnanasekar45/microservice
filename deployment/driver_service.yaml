@@ -1,0 +1,32 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: driver-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: driver-service
+    spec:
+      containers:
+        - name: driver-depoyment
+          image: 'gcr.io/taxidealsnl/driver-service:v1'
+          ports:
+            - containerPort: 8080
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: driver-deployment-service
+  labels:
+    name: driver-deployment-service
+spec:
+  ports:
+    - port: 80
+      targetPort: 8080
+      protocol: TCP
+  selector:
+    app: driver-service
+  type: LoadBalancer

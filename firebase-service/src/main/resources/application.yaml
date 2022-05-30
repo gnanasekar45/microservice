@@ -1,0 +1,14 @@
+firebase:
+  url: "https://taxi-deals-swiss-afc07.firebaseio.com"
+  collection: user_service
+server:
+  port: 8087
+spring:
+  data:
+     mongodb:
+      authentication-database: admin
+      username: driver-user
+      password: H8nmFjAN3BFlQ2BU
+      database: driver_service
+      uri: mongodb+srv://driver-user:H8nmFjAN3BFlQ2BU@cluster0.eoggx.gcp.mongodb.net/driver_service?retryWrites=true&w=majority&authSource=admin
+

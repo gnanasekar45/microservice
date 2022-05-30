@@ -1,0 +1,67 @@
+firebase:
+  url: "https://taxi-deals-swiss-afc07.firebaseio.com"
+  collection: user_service
+server:
+  port: 8087
+spring:
+   data:
+      mongodb:
+        authentication-database: admin
+        username: driver-user
+        password: H8nmFjAN3BFlQ2BU
+        database: driver_service
+        uri: mongodb+srv://driver-user:H8nmFjAN3BFlQ2BU@cluster0.eoggx.gcp.mongodb.net/driver_service?retryWrites=true&w=majority&authSource=admin
+--tarunchandrasekar20gmail.com
+
+firebase:
+  url: "https://taxi-deals-swiss-afc07.firebaseio.com"
+  collection: user_service
+server:
+  port: 8087
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: user
+      password: Tarun123
+      database: taxideals
+      uri: mongodb+srv://user:Tarun123@cluster0.yrclz.mongodb.net/taxideals?retryWrites=true&w=majority&authSource=admin
+
+      India:
+      authentication-database: admin
+            username: driver-user
+            password: H8nmFjAN3BFlQ2BU
+            database: driver_service
+            uri: mongodb+srv://driver-user:H8nmFjAN3BFlQ2BU@cluster0.eoggx.gcp.mongodb.net/driver_service?retryWrites=true&w=majority&authSource=admin
+
+            authentication-database: admin
+                  username: driver-user
+                  password: H8nmFjAN3BFlQ2BU
+                  database: driver_service
+                  uri: mongodb+srv://driver-user:H8nmFjAN3BFlQ2BU@cluster0.eoggx.gcp.mongodb.net/driver_service?retryWrites=true&w=majority&authSource=admin
+
+
+                  authentication-database: admin
+                        username: user
+                        password: Tarun123
+                        database: taxideals
+                        uri: mongodb+srv://user:Tarun123@cluster0.yrclz.mongodb.net/taxideals?retryWrites=true&w=majority&authSource=admin
+
+                        # netty-socketio configuration
+                          socketio:
+                            host: 127.0.0.1
+                            port: 8888
+                            # Set the maximum length of processing data per frame to prevent others from using large data to attack the server
+                            maxFramePayloadLength: 1048576
+                            # Set maximum content length for http interaction
+                            maxHttpContentLength: 1048576
+                            # Size of socket connections (e.g., listening on only one port box thread group is 1)
+                            bossCount: 1
+                            workCount: 100
+                            allowCustomRequests: true
+                            # Protocol upgrade timeout (milliseconds), default 10 seconds.HTTP handshake upgrade to ws protocol timeout
+                            upgradeTimeout: 1000000
+                            # Ping message timeout (milliseconds), default 60 seconds, within which a timeout event is sent if no heartbeat message is received
+                            pingTimeout: 6000000
+                            # Ping message interval (milliseconds), default 25 seconds.Client sends a heartbeat message interval to server
+                            pingInterval: 25000
